@@ -1,5 +1,3 @@
-# Module federation analyzer
+# Webpack simple sandbox
 
-The aim of this sandbox is to investigate possible ways to analyze federated modules build, and what comes from where.
-
-it uses complex-angular example as the base
+This is simple sandbox for webpack issue on `output.clean` not working with dev server
